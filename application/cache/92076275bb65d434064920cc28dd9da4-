@@ -1,0 +1,1174 @@
+a:2:{s:6:"expire";i:1584094457;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Fri, 13 Mar 2020 10:04:17 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="keywords" content="active,matrimonial">
+<meta name="author" content="ActiveItZone">
+<meta name="revisit-after" content="2 day(s)"><!-- Page loader -->
+<script src="http://www.shadiclick.com/template/front/vendor/pace/js/pace.min.js"></script>
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/vendor/pace/css/pace-minimal.css" type="text/css">
+<!-- Bootstrap -->
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Quicksand:400,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+<!-- Plugins -->
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/vendor/swiper/css/swiper.min.css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/vendor/hamburgers/hamburgers.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/vendor/animate/animate.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/vendor/lightgallery/css/lightgallery.min.css">
+<!-- Icons -->
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/font-awesome/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/ionicons/css/ionicons.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/line-icons/line-icons.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/line-icons-pro/line-icons-pro.css" type="text/css">
+<!-- Linea Icons -->
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/linea/arrows/linea-icons.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/linea/basic/linea-icons.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/linea/ecommerce/linea-icons.css" type="text/css">
+<link rel="stylesheet" href="http://www.shadiclick.com/template/front/fonts/linea/software/linea-icons.css" type="text/css">
+<!-- Global style (main) -->
+		<link id="stylesheet" type="text/css" href="http://www.shadiclick.com/template/front/css/global-style-icon.css" rel="stylesheet" media="screen">
+	<!-- Custom style - Remove if not necessary -->
+<link type="text/css" href="http://www.shadiclick.com/template/front/css/custom-style.css" rel="stylesheet">
+<!-- Favicon -->
+
+
+<!-- SCRIPTS -->
+<!-- Core -->
+<script src="http://www.shadiclick.com/template/front/vendor/jquery/jquery.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', " ", 'auto');
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+    <!-- Favicon -->
+                <link href="http://www.shadiclick.com/uploads/favicon/favicon_1572957543.png" rel="icon" type="image/png">
+    	<title>Premium Members || Shadi Click</title>
+</head>
+<body>
+    <style>
+#loading-center{
+	width: 100%;
+	height: 100%;
+	position: relative;
+	}
+#loading-center-absolute {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	height: 50px;
+	width: 150px;
+	margin-top: -25px;
+	margin-left: -75px;
+
+}
+.object{
+	width: 8px;
+	height: 50px;
+	margin-right:5px;
+	background-color: white;
+	-webkit-animation: animate 1s infinite;
+	animation: animate 1s infinite;
+	float: left;
+	}
+
+.object:last-child {
+	margin-right: 0px;
+	}
+
+.object:nth-child(10){
+	-webkit-animation-delay: 0.9s;
+    animation-delay: 0.9s;	
+	}
+.object:nth-child(9){
+	-webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;	
+	}	
+.object:nth-child(8){
+	-webkit-animation-delay: 0.7s;
+    animation-delay: 0.7s;	
+	}
+.object:nth-child(7){
+	-webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;	
+	}
+.object:nth-child(6){
+	-webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;	
+	}
+.object:nth-child(5){
+	-webkit-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+	}
+.object:nth-child(4){
+	-webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;		
+	}
+.object:nth-child(3){
+	-webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;	
+	}
+.object:nth-child(2){
+	-webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+	}						
+@-webkit-keyframes animate {
+ 
+  50% {
+	-ms-transform: scaleY(0); 
+   	-webkit-transform: scaleY(0);
+    transform: scaleY(0);	
+	}
+}
+@keyframes animate {
+  50% {
+	-ms-transform: scaleY(0); 
+   	-webkit-transform: scaleY(0);
+    transform: scaleY(0);
+	}
+}
+#loading{
+	background-color: #ad342c;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 1050;
+	margin-top: 0px;
+	top: 0px;
+}
+</style>
+<div id="loading">
+    <div id="loading-center">
+        <div id="loading-center-absolute">
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+	//$(window).load(function() {
+	$(document).ready(function(e) {
+		$("#loading").delay(500).fadeOut(500);
+		$("#loading-center").click(function() {
+			$("#loading").fadeOut(500);
+		});
+	});
+</script>    <div class="container">
+        <div class="row">
+            <!-- Alerts for Member actions -->
+            <div class="col-lg-3 col-md-4" id="success_alert" style="display: none; position: fixed; top: 15px; right: 0; z-index: 9999">
+                <div class="alert alert-success fade show" role="alert">
+                    <!-- Success Alert Content -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4" id="danger_alert" style="display: none; position: fixed; top: 15px; right: 0; z-index: 9999">
+                <div class="alert alert-danger fade show" role="alert">
+                    <!-- Danger Alert Content -->
+                </div>
+            </div>
+            <!-- Alerts for Member actions -->
+        </div>
+    </div>
+	<!-- MAIN WRAPPER -->
+<style type="text/css">
+	.navbar-container
+	{
+	    margin: 10px auto;
+	}
+</style>
+<div class="body-wrap">
+    <div id="st-container" class="st-container">
+        <div class="st-pusher">
+            <div class="st-content">
+                <div class="st-content-inner">
+					<!-- Navbar -->
+					<div id="myHeader">
+						<div class="top-navbar align-items-center">
+						    <div class="container">
+						        <div class="row align-items-center py-1" style="padding-bottom: 0px !important">
+						            <div class="col-lg-4 col-md-5 col">
+	                                    <nav class="top-navbar-menu" style="margin:0px !important;">
+	                                        <ul class="top-menu" style="float: left !important;width: 40%;">
+	                                            <li class="aux-languages dropdown">
+		                                            <a class="pt-0 pb-0">
+		                                            			                                            	<img src="http://www.shadiclick.com/uploads/language_list_image/language_1.jpg" style="width: 20px;margin-top: -2px">
+		                                            	<span>English</span>
+		                                            </a>
+	                                                <ul id="auxLanguages" class="sub-menu">
+	                                                							                                    <li class="active" >
+						                                        <a class="set_langs" data-href="http://www.shadiclick.com/home/set_language/english">
+						                                            <img src="http://www.shadiclick.com/uploads/language_list_image/language_1.jpg" width="20px">
+			                                                    	<span class="language">English</span>
+						                                            						                                                <i class="fa fa-check"></i>
+						                                            						                                        </a>
+						                                    </li>
+						                                						                                    <li  >
+						                                        <a class="set_langs" data-href="http://www.shadiclick.com/home/set_language/Bangla">
+						                                            <img src="http://www.shadiclick.com/uploads/language_list_image/language_2.jpg" width="20px">
+			                                                    	<span class="language">বাংলা</span>
+						                                            						                                        </a>
+						                                    </li>
+						                                						                                    <li  >
+						                                        <a class="set_langs" data-href="http://www.shadiclick.com/home/set_language/Spanish">
+						                                            <img src="http://www.shadiclick.com/uploads/language_list_image/language_3.jpg" width="20px">
+			                                                    	<span class="language">Español</span>
+						                                            						                                        </a>
+						                                    </li>
+						                                						                                    <li  >
+						                                        <a class="set_langs" data-href="http://www.shadiclick.com/home/set_language/lang_7">
+						                                            <img src="http://www.shadiclick.com/uploads/language_list_image/language_7.jpg" width="20px">
+			                                                    	<span class="language">हिंदी</span>
+						                                            						                                        </a>
+						                                    </li>
+						                                	                                                </ul>
+	                                            </li>
+	                                        </ul>
+	                                        <ul class="top-menu" style="float: left !important;width: 60%;">
+	                                            <li class="aux-languages dropdown">
+		                                            <a class="pt-0 pb-0">
+		                                            									                        <span>U.S. Dollar ($)</span>
+		                                            </a>
+	                                                <ul id="auxLanguages" class="sub-menu">
+	                                                									                            <li class="active" >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/1">
+								                                    U.S. Dollar ($)
+								                                    								                                        <i class="fa fa-check"></i>
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/2">
+								                                    Australian Dollar ($)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/5">
+								                                    Brazilian Real (R$)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/6">
+								                                    Canadian Dollar ($)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/7">
+								                                    Czech Koruna (Kč)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/8">
+								                                    Danish Krone (kr)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/9">
+								                                    Euro (€)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/10">
+								                                    Hong Kong Dollar ($)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/11">
+								                                    Hungarian Forint (Ft)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/12">
+								                                    Israeli New Sheqel (₪)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/13">
+								                                    Japanese Yen (¥)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/14">
+								                                    Malaysian Ringgit (RM)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/15">
+								                                    Mexican Peso ($)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/16">
+								                                    Norwegian Krone (kr)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/17">
+								                                    New Zealand Dollar ($)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/18">
+								                                    Philippine Peso (₱)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/19">
+								                                    Polish Zloty (zł)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/20">
+								                                    Pound Sterling (£)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/21">
+								                                    Russian Ruble (руб)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/22">
+								                                    Singapore Dollar ($)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/23">
+								                                    Swedish Krona (kr)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/24">
+								                                    Swiss Franc (CHF)
+								                                    								                                </a>
+								                            </li>
+								                        								                            <li  >
+								                                <a class="set_langs" data-href="http://www.shadiclick.com/home/set_currency/26">
+								                                    Thai Baht (฿)
+								                                    								                                </a>
+								                            </li>
+								                        	                                                </ul>
+	                                            </li>
+	                                        </ul>
+	                                    </nav>
+									</div>
+						            <div class="col-lg-8 col-md-7 col">
+						                <nav class="top-navbar-menu">
+							                <ul class="float-right top_bar_right">
+
+							                </ul>
+						                </nav>
+						            </div>
+						        </div>
+						    </div>
+						</div>
+						<nav class="navbar navbar-expand-lg navbar-light bg-default navbar--link-arrow navbar--uppercase">
+						    <div class="container navbar-container">
+						        <!-- Brand/Logo -->
+						        <a class="navbar-brand" href="http://www.shadiclick.com/home/">
+						        		                                        <img src="http://www.shadiclick.com/uploads/header_logo/header_logo_1572957463.png" class="img-responsive" height="100%">
+	                                    						        </a>
+						        <div class="d-inline-block">
+						            <!-- Navbar toggler  -->
+						            <button class="navbar-toggler hamburger hamburger-js hamburger--spring" type="button" data-toggle="collapse" data-target="#navbar_main" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+						            <span class="hamburger-box">
+						            <span class="hamburger-inner"></span>
+						            </span>
+						            </button>
+						        </div>
+						        <div class="collapse navbar-collapse align-items-center justify-content-end" id="navbar_main">
+						            <!-- Navbar links -->
+						            <ul class="navbar-nav" data-hover="dropdown">
+						                <li class="custom-nav">
+						                <a class="nav-link " href="http://www.shadiclick.com/home" aria-haspopup="true" aria-expanded="false">
+						                Home</a>
+						                </li>
+						                <li class="custom-nav dropdown">
+						                <a class="nav-link nav_active" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						                Active Members</a>
+						                <ul class="dropdown-menu" style="border: 1px solid #f1f1f1 !important;">
+						                    <li class="dropdown dropdown-submenu">
+						                    <li>
+						                    <a class="dropdown-item " href="http://www.shadiclick.com/home/listing">
+						                    All Members</a>
+						                    </li>
+						                    <li>
+						                    <a class="dropdown-item nav_active_dropdown" href="http://www.shadiclick.com/home/listing/premium_members">
+						                    Premium Members</a>
+						                    </li>
+						                    <li>
+						                    <a class="dropdown-item " href="http://www.shadiclick.com/home/listing/free_members">
+						                    Free Members</a>
+						                    </li>
+						                </ul>
+						                </li>
+						                <li class="custom-nav">
+						                <a class="nav-link " href="http://www.shadiclick.com/home/plans" aria-haspopup="true" aria-expanded="false">
+						                Premium Plans</a>
+						                </li>
+						                <li class="custom-nav">
+						                <a class="nav-link " href="http://www.shadiclick.com/home/stories" aria-haspopup="true" aria-expanded="false">
+						                Happy Stories</a>
+						                </li>
+						                <li class="custom-nav">
+						                <a class="nav-link " href="http://www.shadiclick.com/home/contact_us" aria-haspopup="true" aria-expanded="false">
+						                Contact Us</a>
+						                </li>
+						            </ul>
+						        </div>
+						    </div>
+						</nav>
+					</div>
+					<div class="sticky-content">
+												<script type="text/javascript">
+						    $(document).ready(function () {
+						        $('.set_langs').on('click', function () {
+						            var lang_url = $(this).data('href');
+						            $.ajax({url: lang_url, success: function (result) {
+						                    location.reload();
+						                }});
+						        });
+						    });
+						</script>
+<style>
+    @media (max-width: 576px) {
+        .listing-image {
+            height: 330px !important;
+        }
+    }
+
+</style>
+<section class="page-title page-title--style-1">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12 text-center">
+                <h2 class="heading heading-3 strong-400 mb-0">Active Members</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="slice sct-color-1">
+    <div class="container">
+        <div class="row">
+			<script src="http://www.shadiclick.com/template/front/js/jquery.inputmask.bundle.min.js"></script>
+<div class="col-lg-4 size-sm">
+    <div class="sidebar">
+        <div class="">
+            <div class="card">
+                <div class="card-title b-xs-bottom">
+                    <h3 class="heading heading-sm text-uppercase">Advanced Search</h3>
+                </div>
+                <div class="card-body">
+                    <form class="form-default" id="filter_form" data-toggle="validator" role="form">
+                                                    <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group has-feedback">
+                                        <label for="" class="text-uppercase">Looking For</label>
+                                        <div class="radio radio-primary">
+                                            <input type="radio" name="gender" id="bride" value="2" >
+                                            <label for="bride" class="pr-3">Bride</label>
+                                            <input type="radio" name="gender" id="groom" value="1" >
+                                            <label for="groom">Groom</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Age From</label>
+                                    <input type="number" class="form-control form-control-sm" name="aged_from" id="filter_aged_from" value="">
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">To</label>
+                                    <input type="number" class="form-control form-control-sm" name="aged_to" id="filter_aged_to" value="">
+                                </div>
+                                <div class="help-block with-errors">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Member Id</label>
+                                    <input type="text" class="form-control form-control-sm" name="member_id" id="filter_member_id" value="">
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Marital Status</label>
+                                    <select name="marital_status" onChange="(this.value,this)" class="form-control form-control-sm selectpicker"   data-placeholder="Choose a marital_status" tabindex="2" data-hide-disabled="true" ><option value="">Choose one</option><option value="1" >Single</option><option value="2" >Married</option><option value="3" >Divorced </option><option value="4" >Separated </option><option value="5" >Widowed</option></select>                                    <span class="help-block with-errors"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+
+                            <div class="col-sm-12">
+                                                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Religion</label>
+                                    <select name="religion" onChange="(this.value,this)" class="form-control form-control-sm selectpicker s_religion"   data-placeholder="Choose a religion" tabindex="2" data-hide-disabled="true" ><option value="">Choose one</option><option value="2" >Judaism</option><option value="3" >Cristianity</option><option value="4" >Hinduism</option><option value="5" >Buddhism</option><option value="6" >Atheism</option><option value="7" >Islam</option><option value="8" >Sikhism</option><option value="9" >Jain</option></select>                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Caste / Sect</label>
+
+                                    <select class="form-control form-control-sm selectpicker s_caste" name="caste" >
+                                        <option value="">Choose A Religion First</option>
+                                    </select>
+
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback" id="">
+                                    <label for="" class="text-uppercase">Sub Caste</label>
+
+                                    <select class="form-control form-control-sm selectpicker s_sub_caste" name="sub_caste">
+                                        <option value="">Choose A Caste First</option>
+                                    </select>
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                                                                                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Mother Tongue</label>
+                                    <select name="language" onChange="(this.value,this)" class="form-control form-control-sm selectpicker"   data-placeholder="Choose a language" tabindex="2" data-hide-disabled="true" ><option value="">Choose one</option><option value="2" >Bengali</option><option value="4" >German</option><option value="7" >English</option><option value="8" >Hindi</option><option value="9" >Urdu</option></select>                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                                                                                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Profession</label>
+                                    <input type="text" class="form-control form-control-sm" name="profession" id="filter_profession" value="">
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                                                                                            </div>
+                        </div>
+                                                <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Min Height (Feet)</label>
+                                    <input type="text" class="form-control form-control-sm height_mask" name="min_height" id="min_height" value="0.00">
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase">Max Height (Feet)</label>
+                                    <input type="text" class="form-control form-control-sm height_mask" name="max_height" id="max_height" value="8.00">
+                                </div>
+                                <div class="help-block with-errors">
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="pt-0">
+                            <div class="card-title b-xs-bottom">
+                                <h3 class="heading heading-sm text-uppercase">Member Type</h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="filter-radio">
+                                    <div class="radio radio-primary">
+                                        <input type="radio" name="search_member_type" id="s_all_members" value="all" checked>
+                                        <label for="s_all_members">All Members</label>
+                                    </div>
+                                    <div class="radio radio-primary">
+                                        <input type="radio" name="search_member_type" id="s_premium_members" value="premium_members" >
+                                        <label for="s_premium_members">Premium Members</label>
+                                    </div>
+                                    <div class="radio radio-primary">
+                                        <input type="radio" name="search_member_type" id="s_free_members" value="free_members" >
+                                        <label for="s_free_members">Free Members</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="button" class="btn btn-block btn-base-1 mt-2 z-depth-2-bottom" onclick="filter_members('0','search')">Search</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-4 size-sm-btn mb-4">
+    <button type="button" class="btn btn-block btn-base-1 mt-2 z-depth-2-bottom" onclick="adv_search()">Advanced Search</button>
+</div>
+                <div class="col-lg-8">
+
+                    <input type="hidden" id="member_type" value="premium_members">
+
+                    <div class="block-wrapper" id="result">
+                        <!-- Loads List Data with Ajax Pagination -->
+                    </div>
+                    <div id="pagination" style="float: right;">
+                        <!-- Loads Ajax Pagination Links -->
+                    </div>
+                </div>
+                    </div>
+    </div>
+</section>
+<script>
+    $(document).ready(function(){
+        $("#filter_aged_from").change(function(){
+            var from = parseInt($("#filter_aged_from").val());
+            var to = parseInt($("#filter_aged_to").val());
+            if (to < from) {
+                var to = $("#filter_aged_to").val(from);
+            }
+        });
+        $("#filter_aged_to").change(function(){
+            var from = parseInt($("#filter_aged_from").val());
+            var to = parseInt($("#filter_aged_to").val());
+            if (to < from) {
+                var to = $("#filter_aged_to").val(from);
+            }
+        });
+    });
+</script>
+<script>
+    $(document).ready(function(){
+        $(".height_mask").inputmask({
+            mask: "9.99",
+            greedy: false,
+            definitions: {
+                '*': {
+                    validator: "[0-9]"
+                }
+            }
+        });
+    });
+</script>
+<script>
+    $(document).ready(function(){
+        var home_search = "false";
+        var home_religion = "";
+
+        var home_caste = "";
+        var home_sub_caste = "";
+        if (home_caste != null) {
+            $.ajax({
+                url: "http://www.shadiclick.com/home/get_dropdown_by_id_caste/caste/religion_id/"+home_religion+"/"+home_caste, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+                success: function(data) {
+
+                    $(".s_caste").html(data);
+                    $("#sub_caste").css("display", "none");
+
+                },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+        if (home_sub_caste != null) {
+
+             $.ajax({
+                url: "http://www.shadiclick.com/home/get_dropdown_by_id_sub_caste/sub_caste/caste_id/"+home_caste+"/"+home_sub_caste, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+
+                success: function (data) {
+
+                    if(data == false ){
+
+                       $("#sub_caste").css("display", "none");
+                    } else {
+                      $(".s_sub_caste").html(data);
+                       $("#sub_caste").css("display", "block");
+                    };
+               },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+        if (home_search == "false") {
+            filter_members('0');
+        }
+        if (home_search == "true") {
+            filter_members('0', 'search');
+        }
+
+    });
+
+    function filter_members(page, type){
+        if (type == 'search')
+        {
+            // console.log('in if');return false;
+            var url = 'http://www.shadiclick.com/home/ajax_member_list/'+page+'/'+type;
+        }
+        else {
+            var member_type = "";
+            if ($("#member_type").val() != "") {
+                member_type = $("#member_type").val();
+            }
+            // alert($("#member_type").val());
+            //var url = form.attr('action')+page+'/';
+            var url = 'http://www.shadiclick.com/home/ajax_member_list/'+page+'/'+member_type;
+            // console.log(url);
+        }
+        var form = $('#filter_form');
+        var place = $('#result');
+        var formdata = false;
+        if (window.FormData){
+            formdata = new FormData(form[0]);
+        }
+        $(".btn-back-to-top").click();
+        $.ajax({
+            url: url, // form action url
+            type: 'POST', // form submit method get/post
+            dataType: 'html', // request type html/json/xml
+            data: formdata ? formdata : form.serialize(), // serialize form data
+            cache       : false,
+            contentType : false,
+            processData : false,
+            beforeSend: function() {
+                place.html("");
+                place.html("<div class='text-center pt-5 pb-5' id='payment_loader'><i class='fa fa-refresh fa-5x fa-spin'></i><p>Please Wait...</p></div>").fadeIn();
+            },
+            success: function(data) {
+                var width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+                if (width <= 768) {
+                    $(".size-sm").css("display", "none");
+                    $(".size-sm-btn").css("display", "block");
+                }
+                setTimeout(function(){
+                    place.html(data);// fade in response data
+                }, 20);
+                setTimeout(function(){
+                    place.fadeIn(); // fade in response data
+                }, 30);
+            },
+            error: function(e) {
+                console.log(e)
+            }
+        });
+    }
+
+    function adv_search(){
+        $(".size-sm").css("display", "block");
+        $(".size-sm-btn").css("display", "none");
+    }
+
+    $(".s_country").change(function(){
+        var country_id = $(".s_country").val();
+        if (country_id == "") {
+            $(".s_state").html("<option value=''>Choose A Country First</option>");
+            $(".s_city").html("<option value=''>Choose A State First</option>");
+        } else {
+            $.ajax({
+                url: "http://www.shadiclick.com/home/get_dropdown_by_id/state/country_id/"+country_id, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+                success: function(data) {
+                    $(".s_state").html(data);
+                    $(".s_city").html("<option value=''>Choose A State First</option>");
+                },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+    });
+
+    $(".s_state").change(function(){
+        var state_id = $(".s_state").val();
+        if (state_id == "") {
+            $(".s_city").html("<option value=''>Choose A State First</option>");
+        } else {
+            $.ajax({
+                url: "http://www.shadiclick.com/home/get_dropdown_by_id/city/state_id/"+state_id, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+                success: function(data) {
+                    $(".s_city").html(data);
+                },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+    });
+
+    $(".s_religion").change(function(){
+        var religion_id = $(".s_religion").val();
+        if (religion_id == "") {
+            $(".s_caste").html("<option value=''>Choose A Religion First</option>");
+            $(".s_sub_caste").html("<option value=''>Choose A Caste First</option>");
+        } else {
+            $.ajax({
+                url: "http://www.shadiclick.com/home/get_dropdown_by_id_caste/caste/religion_id/"+religion_id, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+                success: function(data) {
+
+                    $(".s_caste").html(data);
+                    $(".s_sub_caste").html("<option value=''>Choose A Caste First</option>");
+                },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+    });
+
+    $(".s_caste").change(function(){
+        var caste_id = $(".s_caste").val();
+        if (caste_id == "") {
+            $(".s_sub_caste").html("<option value=''>Choose A Caste First</option>");
+        } else {
+            $.ajax({
+                url: "http://www.shadiclick.com/home/get_dropdown_by_id_sub_caste/sub_caste/caste_id/"+caste_id, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+                success: function (data) {
+                    if(data == false ){
+                        $(".s_sub_caste").html("<option value=''>None</option>");
+                    } else {
+                        $(".s_sub_caste").html(data);
+                    };
+                },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+    });
+</script>
+<style>
+    /* xs */
+    .size-sm {
+        display: none;
+    }
+    .size-sm-btn {
+        display: block;
+    }
+    /* sm */
+    @media (min-width: 768px) {
+        .size-sm {
+            display: none;
+        }
+        .size-sm-btn {
+            display: block;
+        }
+    }
+    /* md */
+    @media (min-width: 992px) {
+        .size-sm {
+            display: block;
+        }
+        .size-sm-btn {
+            display: none;
+        }
+    }
+    /* lg */
+    @media (min-width: 1200px) {
+        .size-sm {
+            display: block;
+        }
+        .size-sm-btn {
+            display: none;
+        }
+    }
+</style>
+                        <footer id="footer" class="footer">
+                            <div class="footer-top">
+                                <div class="container">
+                                    <div class="row cols-xs-space cols-sm-space cols-md-space">
+                                                                                        <div class="col-md-3 col-lg-3">
+                                                    <div class="col">
+                                                        <a class="navbar-brand" href="#">
+                                                                                                                                <img src="http://www.shadiclick.com/uploads/footer_logo/footer_logo_1572957580.png" class="img-responsive" width="100%">
+                                                                                                                        </a>
+                                                        <div class="text-center"><small>Search your soul mates</small></div>
+                                                    </div>
+                                                </div>
+                                                                                    <div class="col-md-3 col-lg-3 d-none d-lg-block d-md-block">
+                                            <div class="col">
+                                                <h4 class="heading heading-xs strong-600 text-uppercase mb-1">
+                                                Main Menu</h4>
+                                                <ul class="footer-links">
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home" title="Home">
+                                                    Home</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/plans" title="Premium Plans">
+                                                    Premium Plans</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/stories" title="Happy Stories">
+                                                    Happy Stories</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/contact_us" title="Contact Us">
+                                                    Contact Us</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3 col-lg-3 d-none d-lg-block d-md-block">
+                                            <div class="col">
+                                                <h4 class="heading heading-xs strong-600 text-uppercase mb-1">
+                                                Quick Search</h4>
+                                                <ul class="footer-links">
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/listing" title="All Members">
+                                                    All Members</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/listing/premium_members" title="Premium Members">
+                                                    Premium Members</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/listing/free_members" title="Free Members">
+                                                    Free Members</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3 col-lg-3">
+                                            <div class="col">
+                                                <h4 class="heading heading-xs strong-600 text-uppercase mb-1">
+                                                Useful Links</h4>
+                                                <ul class="footer-links">
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/faq" title="FAQ">
+                                                    FAQ </a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/terms_and_conditions" title="Terms & Conditions">
+                                                    Terms & Conditions</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://www.shadiclick.com/home/privacy_policy" title="Prvacy Policy">
+                                                    Privacy Policy</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                            <div class="footer-bottom py-1">
+                                <div class="container">
+                                    <div class="row row-cols-xs-spaced flex flex-items-xs-middle">
+                                        <div class="col col-md-7">
+                                            <div class="copyright text-center text-sm-left mt-2">
+                                                 Copyright &copy; 2020 <a href="http://www.shadiclick.com/" class="c-base-1" target="_blank" title="Webpixels - Official Website">
+                                                <strong class="strong-400">Shadi Click</strong>
+                                                </a> - All Rights Reserved                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+            <!-- END: st-pusher -->
+        </div>
+        <!-- END: st-pusher -->
+    </div>
+    <!-- END: st-container -->
+</div>
+<!-- END: body-wrap --> <!-- SCRIPTS -->
+<!-- Core -->
+<script src="http://www.shadiclick.com/template/front/vendor/popper/popper.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/js/vendor/jquery.easing.js"></script>
+<script src="http://www.shadiclick.com/template/front/js/ie10-viewport-bug-workaround.js"></script>
+<script src="http://www.shadiclick.com/template/front/js/slidebar/slidebar.js"></script>
+<script src="http://www.shadiclick.com/template/front/js/classie.js"></script>
+<!-- Bootstrap Extensions -->
+<script src="http://www.shadiclick.com/template/front/vendor/bootstrap-dropdown-hover/js/bootstrap-dropdown-hover.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/bootstrap-notify/bootstrap-growl.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/scrollpos-styler/scrollpos-styler.js"></script>
+<!-- Plugins -->
+<script src="http://www.shadiclick.com/template/front/vendor/flatpickr/flatpickr.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/easy-pie-chart/jquery.easypiechart.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/footer-reveal/footer-reveal.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/sticky-kit/sticky-kit.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/swiper/js/swiper.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/paraxify/paraxify.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/viewport-checker/viewportchecker.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/milestone-counter/jquery.countTo.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/countdown/js/jquery.countdown.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/typed/typed.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/instafeed/instafeed.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/gradientify/jquery.gradientify.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/nouislider/js/nouislider.min.js"></script>
+<!-- Isotope -->
+<script src="http://www.shadiclick.com/template/front/vendor/isotope/isotope.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<!-- Light Gallery -->
+<script src="http://www.shadiclick.com/template/front/vendor/lightgallery/js/lightgallery.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="http://www.shadiclick.com/template/front/vendor/lightgallery/js/lg-video.js"></script>
+<!-- App JS -->
+<script src="http://www.shadiclick.com/template/front/js/wpx.app.js"></script>	<a href="#" class="btn-shadow back-to-top btn-back-to-top"></a>
+	<button class="open_modal" style="display: none">Open</button>
+</body>
+</html>
+<!-- Bootstrap Modal -->
+<div class="modal fade" id="active_modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-md" style="max-width: 400px; margin-top: 30vh;">
+        <div class="modal-content">
+            <div class="modal-header text-center" style="display: block; border-bottom: 1px solid transparent">
+                <span class="modal-title" id="modal_header">Title</span>
+                <button type="button" class="close" id="modal_close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center" id="modal_body">
+                <div class='text-center' id='payment_loader'><i class='fa fa-refresh fa-5x fa-spin'></i><p>Please Wait ...</p></div>
+            </div>
+            <div class="text-center" id="modal_buttons">
+                <button type="button" class="btn btn-danger btn-sm" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="test"></div>
+<script type="text/javascript">
+	$(document).ready(function(){
+        $('.top_bar_right').load('http://www.shadiclick.com/home/top_bar_right');
+    });
+</script>
+<!-- Bootstrap Modal -->
+
+<script>
+    var isloggedin = "";
+
+    var right_click ="off"
+    if(right_click == "on"){
+            $('body').on('contextmenu', function(e) {
+            return false;
+        });
+    }
+
+
+    function confirm_accept(id) {
+        if (isloggedin == "") {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Please Login");
+            $("#modal_body").html("<p class='text-center'>Please Log In To Accept This Request</p>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='http://www.shadiclick.com/home/login' class='btn btn-sm btn-base-1 btn-shadow' style='width:25%'>Log In</a>");
+        }
+        else {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Confirm Accept Request");
+            $("#modal_body").html("<p class='text-center'>Are You Sure That You Want To Accept This Request?</p>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='#' id='confirm_accept' class='btn btn-sm btn-base-1 btn-shadow' onclick='return do_accept("+id+")' style='width:25%'>Confirm</a>");
+        }
+    }
+    function do_accept(id) {
+        $("#confirm_accept").removeAttr("onclick");
+        $("#confirm_accept").html("<i class='fa fa-refresh fa-spin'></i> Processing..");
+        setTimeout(function() {
+            $.ajax({
+                type: "POST",
+                url: "http://www.shadiclick.com/home/accept_interest/"+id,
+                cache: false,
+                success: function(response) {
+                    $("#active_modal .close").click();
+                    $(".text_"+id).html("<small class='sml_txt'><i class='fa fa-check-circle'></i> You Have Accepted The Interest</small>");
+                    $(".text_"+id).attr('class', 'text-center text-success text_'+id);
+                    $("#success_alert").show();
+                    $(".alert-success").html("You Have Accepted The Request!");
+                    $('#danger_alert').fadeOut('fast');
+                    setTimeout(function() {
+                        $('#success_alert').fadeOut('fast');
+                    }, 5000); // <-- time in milliseconds
+                },
+                fail: function (error) {
+                    alert(error);
+                }
+            });
+        }, 500); // <-- time in milliseconds
+    }
+
+    function confirm_reject(id) {
+        if (isloggedin == "") {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Please Log In");
+            $("#modal_body").html("<p class='text-center'>Please Log In To Reject This Request</p>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='http://www.shadiclick.com/home/login' class='btn btn-sm btn-base-1 btn-shadow' style='width:25%'>Log In</a>");
+        }
+        else {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Confirm Reject Request");
+            $("#modal_body").html("<p class='text-center'Are You Sure That You Want To Reject This Request?>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='#' id='confirm_reject' class='btn btn-sm btn-base-1 btn-shadow' onclick='return do_reject("+id+")' style='width:25%'>Confirm</a>");
+        }
+    }
+    function do_reject(id) {
+        $("#confirm_reject").removeAttr("onclick");
+        $("#confirm_reject").html("<i class='fa fa-refresh fa-spin'></i> Processing..");
+        setTimeout(function() {
+            $.ajax({
+                type: "POST",
+                url: "http://www.shadiclick.com/home/reject_interest/"+id,
+                cache: false,
+                success: function(response) {
+                    $("#active_modal .close").click();
+                    $(".text_"+id).html("<small class='sml_txt'><i class='fa fa-times-circle'></i>You Have Rejected The Interest</small>");
+                    $(".text_"+id).attr('class', 'text-center text-danger text_'+id);
+                    $("#danger_alert").show();
+                    $(".alert-danger").html("You Have Rejected This Request!");
+                    $('#success_alert').fadeOut('fast');
+                    setTimeout(function() {
+                        $('#danger_alert').fadeOut('fast');
+                    }, 5000); // <-- time in milliseconds
+                },
+                fail: function (error) {
+                    alert(error);
+                }
+            });
+        }, 500); // <-- time in milliseconds
+    }
+</script>
+<script>$(function(){$.getScript("https://activeitzone.com/check/matrimonial.js");});</script>
